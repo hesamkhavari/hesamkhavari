@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hesam Khavari 👋
 
-<!--
-**hesamkhavari/hesamkhavari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in Linux, IT infrastructure, and networking.
 
-Here are some ideas to get you started:
+I use this profile to document what I'm learning and share hands-on labs and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Linux and Unix-like systems
+- Networking fundamentals
+- IT infrastructure
+- System administration
+
+## Featured Repositories
+- [linux-learning](https://github.com/hesamkhavari/linux-learning) — Linux notes, labs, and practical exercises
+- [legacy-unix-install-lab](https://github.com/nodepair-lab/legacy-unix-install-lab) — Unix installation lab
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/hesam-khavari-129b17414/)
