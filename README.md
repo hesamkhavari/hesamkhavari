@@ -16,7 +16,3 @@ I use this profile to document what I'm learning and share hands-on labs and pro
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/hesam-khavari-129b17414/)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hesamkhavari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
